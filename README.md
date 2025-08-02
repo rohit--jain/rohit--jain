@@ -25,13 +25,17 @@ Actively seeking a position in system-level software development (embedded) wher
 ### 💡 Profile Summary:
 
 
-     ✅ Passionate about designing and development of linux based embedded systems solutions for real-time and networked environments.
+     ✅ Passionate about designing and development of linux based embedded systems 
+     solutions for real-time and networked environments.
      
-     ✅ Experienced in fault diagnosis, test strategy development, and integration of complex subsystems. Effective at working in interdisciplinary teams and supporting technical proposals and customer communication.
+     ✅ Experienced in fault diagnosis, test strategy development, and integration of complex subsystems. 
+     Effective at working in interdisciplinary teams and supporting technical proposals and customer communication.
      
-     ✅ Proficient background in software designing, system architecture, C and C++ (C++17/20) with expertise in multithreading/coroutines, Boost ASIO, and low-level communication protocols.
+     ✅ Proficient background in software designing, system architecture, C and C++ (C++17/20) with expertise 
+     in multithreading/coroutines, Boost ASIO, and low-level communication protocols.
      
-     ✅ Successfully developed a custom transport-layer communication protocol as part of a Master's thesis, using C++, flow control algorithms with multithreading and machine learning in Python.
+     ✅ Successfully developed a custom transport-layer communication protocol as part of a Master's thesis, 
+     using C++, flow control algorithms with multithreading and machine learning in Python.
 
      ✅ Proactive, independent way of working and openness to new technologies and methods.
      
