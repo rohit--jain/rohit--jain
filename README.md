@@ -20,31 +20,18 @@ Here are some ideas to get you started:
 
 ### 🎯 Professional Objective:
 
-Seeking an opportunity with a forward-thinking tech company that prioritizes meaningful impact. 
-With my expertise in software development and passion for innovation, I aim to contribute to the advancement of the data-driven era and make a significant difference in the industry.
-
-	Software Developer with several years of experience in designing and devleopment of linux based embedded systems solutions for real-time and networked environments.
-
-	Strong background in software designing, system architecture, C and C++ (C++17/20) with expertise in multithreading/coroutines, Boost ASIO, and low-level communication protocols.
-
-	Successfully developed a custom transport-layer communication protocol as part of a master's thesis, using C++, flow control algorithms with multithreading and machine learning in Python.
-
-	Experienced in fault diagnosis, test strategy development, and integration of complex subsystems. Effective at working in interdisciplinary teams and supporting technical proposals and customer communication.
-
-	Actively seeking a position in system-level software development (embedded) where I can apply my technical expertise, global mindset, and communication skills to deliver reliable end user products and solutions.
-
-
+Actively seeking a position in system-level software development (embedded) where I can apply my technical expertise, global mindset, and communication skills to deliver reliable end user products and solutions. 
+ 
 ### 💡 Profile Summary:
 
-	Actively seeking a position in system-level software development (embedded) where I can apply my technical expertise, global mindset, and communication skills to deliver reliable end user products and solutions. 
- 
-     ✅ Proficient in a wide range of programming languages, including Typescript, Python, and Java.
+
+     ✅ Passionate about designing and development of linux based embedded systems solutions for real-time and networked environments.
      
-     ✅ Well-versed in modern web frameworks such as Node.js, Nest.js, Svelte, and Angular.
+     ✅ Experienced in fault diagnosis, test strategy development, and integration of complex subsystems. Effective at working in interdisciplinary teams and supporting technical proposals and customer communication.
      
-     ✅ Proficient background in RESTful API development and testing.
+     ✅ Proficient background in software designing, system architecture, C and C++ (C++17/20) with expertise in multithreading/coroutines, Boost ASIO, and low-level communication protocols.
      
-     ✅ Hands-on experience in Ethereum and its ecosystem
+     ✅ Successfully developed a custom transport-layer communication protocol as part of a Master's thesis, using C++, flow control algorithms with multithreading and machine learning in Python.
 
      ✅ Proactive, independent way of working and openness to new technologies and methods.
      
@@ -52,9 +39,9 @@ With my expertise in software development and passion for innovation, I aim to c
      
      ✅ Experienced in "Concept to Prototype" Project Development
      
-     ✅ M.Sc. in Distributed Software Systems (DSS) from Technische Universität Darmstadt, Germany
+     ✅ M.Sc. in Informatics (Distributed Software Systems) from Technische Universität Darmstadt, Germany
      
-     ✅ Web3 and Blockchain Enthusiast
+     ✅ Proficient in a wide range of programming languages, including C++, Python, and Java.
 
 ## ⚡ Tech Stack
 
