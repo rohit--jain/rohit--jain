@@ -31,11 +31,8 @@ Actively seeking a position in system-level software development (embedded) wher
      
      ✅ Effective at working in interdisciplinary teams and supporting technical proposals and customer communication.
      
-     ✅ Proficient background in software designing, system architecture, with expertise 
-     in multithreading/coroutines, Boost ASIO, and low-level communication protocols.
-     
-     ✅ Successfully developed a custom transport-layer communication protocol as part of a Master's thesis, 
-     using C++, flow control algorithms with multithreading and machine learning in Python.
+     ✅ Proficient background in software designing, system architecture, SDLC and currently working with C++ 20
+     in multithreading/coroutines, Boost ASIO, and low-level transport layer communication protocols.
 
      ✅ Proactive, independent way of working and openness to new technologies and methods.
      
@@ -62,6 +59,7 @@ Here are a few things I've picked up along my learning journey.
 <h3> Platforms and Technologies </h3> 
 
 ![Raspberry-Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=Raspberry-Pi)
+![RP2040, RP2350 Microcontrollers](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=Raspberry-Pi)
 
 <h3> 	Others </h3> 
 
