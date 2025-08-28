@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 🎯 Professional Objective:
 
-Actively seeking a position in system-level software development (embedded) where I can apply my technical expertise, global mindset, and communication skills to deliver reliable end user products and solutions. 
+Actively seeking a position in system-level software development where I can apply my technical expertise, global mindset, and communication skills to deliver reliable end user products and solutions. 
  
 ### 💡 Profile Summary:
 
